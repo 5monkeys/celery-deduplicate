@@ -1,1 +1,1 @@
-from .task import deduplicate_task, DeduplicateTask
+from .tasks import deduplicate_task, DeduplicateTask
